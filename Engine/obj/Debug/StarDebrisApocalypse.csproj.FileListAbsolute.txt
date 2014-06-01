@@ -1,0 +1,10 @@
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\bin\Debug\SDA.exe.config
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\obj\Debug\SDA.exe
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\obj\Debug\SDA.pdb
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\bin\Debug\SDA.exe.manifest
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\bin\Debug\SDA.application
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\bin\Debug\SDA.exe
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\bin\Debug\SDA.pdb
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\obj\Debug\StarDebrisApocalypse.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\obj\Debug\SDA.exe.manifest
+C:\Users\Teodor\Documents\Visual Studio 2012\Projects\StarDebrisApocalypse\Engine\obj\Debug\SDA.application
